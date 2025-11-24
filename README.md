@@ -2,7 +2,7 @@
 -👋 Hi, I’m Nikhil Verma
 - 👀 I’m interested in Software engineering 
 - 🌱 I’m currently learning Web development and DSA
-- 📫 Currently working as a web developer intern
+- 📫 Currently working as a web developer & Gen AI Engineer 
 - 📍 Bhopal (M.P.)
 
 
